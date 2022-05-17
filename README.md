@@ -1,5 +1,7 @@
 # Unifi Video
 
+Archived - refer to Unifi Protect.
+
 Mostly now dead because of Unifi Protect and their future products/services. It still works but now EoL. No official support by Ubiquiti.
 
 ----
