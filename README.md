@@ -19,7 +19,7 @@ Unifi Video for Debian / Ubuntu: v3.10.13
 
 Unifi Video Camera Firmware: v4.23.8.67 
  
-[Firmware Download](https://github.com/lwsnz/unifi/raw/main/unifi-video/camera_firmware/G3_Flex/uvc.s2l.v4.23.8.bin)
+[Firmware Download](https://github.com/SystemJargon/unifi/raw/main/unifi-video/camera_firmware/G3_Flex/uvc.s2l.v4.23.8.bin)
 
 Note: do not use v4.30 it won't work with Unifi Video for Debian. v4.30 is for Unifi Protect.
 
